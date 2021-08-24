@@ -7,3 +7,4 @@ Issues with tkinter window "not responding" and hanging part way through a run. 
 -implement more sorting algorithms 
 -learn and try to implement threading/multiprocessing
 -potentially change visual colours and how colorArray is generated for radix sort
+-add counters to show number of comparisons/array accesses? 
